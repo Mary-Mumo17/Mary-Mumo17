@@ -1,16 +1,25 @@
-## Hi there 👋,I'm Mary Mumo.
+# Hi there 👋, I'm Mary Mumo.
 
 <!--
-**Mary-Mumo17/Mary-Mumo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Introduction
+I am Mary Mumo, an IT officer with a strong passion for technology, it's evolution and programming. I'm always eager to explore emerging trends in IT and enhance my technical skills. 
 
-Here are some ideas to get you started:
+###Current learning goals and interests. 
+Currently learning at the IYF free Weekend Academy. I'm focused on enhancing my knowledge in IT, staying updated with technological advancements and improving my programming expertise, particularly in Javascript and CSS. 
 
-- 🔭 I’m currently working on my computer programming skills.
-- 🌱 I’m currently learning new programming languages and skills. 
-- 👯 I’m looking forward to creating the most flexible and reliable programme with the most recent technologies. 
-- 🤔 I’m looking for help on  familiarizing with new technologies and terminologies. 
-- 💬 Ask me about my progress on this learning process.
-- 📫 How to reach me: mumomary359@gmail.com 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Curiosity is my motivation.
+####Tecnologies/Languages
+I'm currently learning :
+- Web Development. 
+-CSS. 
+-Javascript. 
+
+#####Current coursework
+- Linux Commands. 
+- Advanced HTML, CSS and Javascript. 
+-Node.js
+- Backend Developments and front-end frameworks.
+
+######Contact
+You can reach me through my email, mumomary359@gmail.com. 
+
 -->
